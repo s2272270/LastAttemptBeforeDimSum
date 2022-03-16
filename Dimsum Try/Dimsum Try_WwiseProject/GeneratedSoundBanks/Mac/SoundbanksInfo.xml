@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Mac" BasePlatform="Mac" SchemaVersion="12" SoundbankVersion="140">
+	<RootPaths>
+		<ProjectRoot>C:\Users\Andrew Ramsey\Documents\GitHub\LastAttemptBeforeDimSum\Dimsum Try\Dimsum Try_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>C:\Users\Andrew Ramsey\Documents\GitHub\LastAttemptBeforeDimSum\Dimsum Try\Dimsum Try_WwiseProject\.cache\Mac\</SourceFilesRoot>
+		<SoundBanksRoot>C:\Users\Andrew Ramsey\Documents\GitHub\LastAttemptBeforeDimSum\Dimsum Try\Dimsum Try_WwiseProject\GeneratedSoundBanks\Mac\</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>C:\Users\Andrew Ramsey\Documents\GitHub\LastAttemptBeforeDimSum\Dimsum Try\Dimsum Try_WwiseProject\GeneratedSoundBanks\Mac</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="393239870" Language="SFX" Hash="485143211">
+			<ObjectPath>\SoundBanks\Default Work Unit\sfx</ObjectPath>
+			<ShortName>sfx</ShortName>
+			<Path>sfx.bnk</Path>
+			<IncludedEvents>
+				<Event Id="4089740784" Name="Play_zeub" ObjectPath="\Events\Default Work Unit\Play_zeub" DurationType="OneShot" DurationMin="3.291594" DurationMax="10.62287">
+					<IncludedMemoryFiles>
+						<File Id="89151266" Language="SFX">
+							<ShortName>Edinburgh_MilnesCourt_Abdul_TheItsyBitsySpider_HarleensKitchen_1.13.22.wav</ShortName>
+							<Path>SFX\Edinburgh_MilnesCourt_Abdul_TheItsyBitsySpider_HarleensKitchen_1.13.22_FDA18BC0.wem</Path>
+						</File>
+						<File Id="527371904" Language="SFX">
+							<ShortName>Edinburgh_MilnesCourt_Abdul_TheItsyBitsySpider_HarleensKitchen_1.13.22.wav</ShortName>
+							<Path>SFX\Edinburgh_MilnesCourt_Abdul_TheItsyBitsySpider_HarleensKitchen_1.13.22_310C4766.wem</Path>
+						</File>
+						<File Id="602525956" Language="SFX">
+							<ShortName>Edinburgh_MilnesCourt_Abdul_TheItsyBitsySpider_HarleensKitchen_1.13.22.wav</ShortName>
+							<Path>SFX\Edinburgh_MilnesCourt_Abdul_TheItsyBitsySpider_HarleensKitchen_1.13.22_862915A4.wem</Path>
+						</File>
+						<File Id="974797747" Language="SFX">
+							<ShortName>Edinburgh_MilnesCourt_Abdul_TheItsyBitsySpider_HarleensKitchen_1.13.22.wav</ShortName>
+							<Path>SFX\Edinburgh_MilnesCourt_Abdul_TheItsyBitsySpider_HarleensKitchen_1.13.22_0A2C0EF2.wem</Path>
+						</File>
+						<File Id="1035043669" Language="SFX">
+							<ShortName>Edinburgh_MilnesCourt_Abdul_TheItsyBitsySpider_HarleensKitchen_1.13.22.wav</ShortName>
+							<Path>SFX\Edinburgh_MilnesCourt_Abdul_TheItsyBitsySpider_HarleensKitchen_1.13.22_DE7C979E.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+		</SoundBank>
+		<SoundBank Id="1355168291" Language="SFX" Hash="2754342975">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>
