@@ -24,7 +24,7 @@ MonoBehaviour:
     ParentPath: Virtual Acoustics\Default Work Unit
     guid: 0cd876126e276746b3d567f2eb910af1
     GuidInternal: 
-    m_lastTime: -8585541420380007924
+    m_lastTime: -8585541369311979754
     List: []
   AuxBusWwu:
   - PhysicalPath: Master-Mixer Hierarchy\Default Work Unit.wwu
@@ -38,7 +38,7 @@ MonoBehaviour:
     ParentPath: Master-Mixer Hierarchy\Default Work Unit
     guid: fcc6b2455fa77b49b9009b7293eabb98
     GuidInternal: 
-    m_lastTime: -8585541420384026698
+    m_lastTime: -8585541369325791821
     List:
     - name: Master Audio Bus
       guid: d8a41415a61d2a41a17e75ca0c2149f3
@@ -66,8 +66,22 @@ MonoBehaviour:
     ParentPath: SoundBanks\Default Work Unit
     guid: 3a23cdb20756ab4cbd7f210bd46c2ea1
     GuidInternal: 
-    m_lastTime: -8585541371201855098
-    List: []
+    m_lastTime: -8585541339144991605
+    List:
+    - name: Arthur_SFX
+      guid: d62129d9905e0548998b7eec01d1f652
+      id: 2394993889
+      PathAndIcons:
+      - ElementName: SoundBanks
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 3a23cdb20756ab4cbd7f210bd46c2ea1
+      - ElementName: Arthur_SFX
+        ObjectType: 7
+        guid: d62129d9905e0548998b7eec01d1f652
+      Path: SoundBanks\Default Work Unit\Arthur_SFX
   EventWwu:
   - PhysicalPath: Events\Default Work Unit.wwu
     PathAndIcons:
@@ -80,8 +94,25 @@ MonoBehaviour:
     ParentPath: Events\Default Work Unit
     guid: 415e7f01eaef2a44a8d590a0cb0b40f1
     GuidInternal: 
-    m_lastTime: -8585541371201865097
-    List: []
+    m_lastTime: -8585541339144842806
+    List:
+    - name: Play_MetalGate_ChainShake_04
+      guid: 1d2d2bcfeec59f4786bfc99c12b88de9
+      id: 3366641553
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 415e7f01eaef2a44a8d590a0cb0b40f1
+      - ElementName: Play_MetalGate_ChainShake_04
+        ObjectType: 3
+        guid: 1d2d2bcfeec59f4786bfc99c12b88de9
+      Path: Events\Default Work Unit\Play_MetalGate_ChainShake_04
+      maxAttenuation: 0
+      maxDuration: 2.166917
+      minDuration: 2.166917
   RtpcWwu:
   - PhysicalPath: Game Parameters\Default Work Unit.wwu
     PathAndIcons:
@@ -94,7 +125,7 @@ MonoBehaviour:
     ParentPath: Game Parameters\Default Work Unit
     guid: 487a002adc52d943a768eaa40d76e25b
     GuidInternal: 
-    m_lastTime: -8585541420381913527
+    m_lastTime: -8585541369327437965
     List: []
   StateWwu:
   - PhysicalPath: States\Default Work Unit.wwu
@@ -108,7 +139,7 @@ MonoBehaviour:
     ParentPath: States\Default Work Unit
     guid: 47f4f4fd901bbb4f8fce26f23e252b86
     GuidInternal: 
-    m_lastTime: -8585541420381418189
+    m_lastTime: -8585541369312027444
     List: []
   SwitchWwu:
   - PhysicalPath: Switches\Default Work Unit.wwu
@@ -122,7 +153,7 @@ MonoBehaviour:
     ParentPath: Switches\Default Work Unit
     guid: dd9957eacc167b4ba9101777be84dd51
     GuidInternal: 
-    m_lastTime: -8585541420384166681
+    m_lastTime: -8585541369312014495
     List: []
   TriggerWwu:
   - PhysicalPath: Triggers\Default Work Unit.wwu
@@ -136,10 +167,10 @@ MonoBehaviour:
     ParentPath: Triggers\Default Work Unit
     guid: 0cbde96c406632478840f143516d49ca
     GuidInternal: 
-    m_lastTime: -8585541420384666734
+    m_lastTime: -8585541369311994627
     List: []
   ExpandedFileSystemItemIds: 
-  ExpandedWaapiItemIds: 06000000070000000b0000000c000000
+  ExpandedWaapiItemIds: 0500000006000000090000000a000000
   AutoSyncSelection: 0
   autoPopulateEnabled: 1
   currentDataSource: 0
