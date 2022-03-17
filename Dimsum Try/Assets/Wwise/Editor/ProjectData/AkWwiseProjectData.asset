@@ -131,8 +131,8 @@ MonoBehaviour:
         guid: a4a2077397d5d54a9056b0178532f209
       Path: Events\Default Work Unit\AR\Play_poop
       maxAttenuation: 0
-      maxDuration: -1
-      minDuration: -1
+      maxDuration: 30.61601
+      minDuration: 0.125
   RtpcWwu:
   - PhysicalPath: Game Parameters\Default Work Unit.wwu
     PathAndIcons:

@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 705507994}
-  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657874, g: 0.49641258, b: 0.5748172, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -337,7 +337,7 @@ MonoBehaviour:
   data:
     idInternal: 0
     valueGuidInternal: 
-    WwiseObjectReference: {fileID: 11400000, guid: 5b51def204537b140886e459f7bce5d6, type: 2}
+    WwiseObjectReference: {fileID: 11400000, guid: 5a18fd1f08f6ecf44b92032cbbdbbfb9, type: 2}
   useCallbacks: 0
   Callbacks: []
   playingId: 0
@@ -491,7 +491,7 @@ MonoBehaviour:
   data:
     idInternal: 0
     valueGuidInternal: 
-    WwiseObjectReference: {fileID: 11400000, guid: 5b51def204537b140886e459f7bce5d6, type: 2}
+    WwiseObjectReference: {fileID: 11400000, guid: 5a18fd1f08f6ecf44b92032cbbdbbfb9, type: 2}
   useCallbacks: 0
   Callbacks: []
   playingId: 0
@@ -1109,7 +1109,6 @@ Transform:
   - {fileID: 121456217}
   - {fileID: 1906051627}
   - {fileID: 1481714111}
-  - {fileID: 1764349273}
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -1167,7 +1166,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
-  m_RootOrder: 7
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1300294378
 MonoBehaviour:
@@ -1186,7 +1185,7 @@ MonoBehaviour:
   data:
     idInternal: 0
     valueGuidInternal: 
-    WwiseObjectReference: {fileID: 11400000, guid: 121a99e0e228e1e41be885c6123489df, type: 2}
+    WwiseObjectReference: {fileID: 11400000, guid: 6368044422c09df41a3a2761447f4648, type: 2}
   decodeBank: 0
   loadAsynchronous: 0
   saveDecodedBank: 0
@@ -1311,7 +1310,7 @@ MonoBehaviour:
   data:
     idInternal: 0
     valueGuidInternal: 
-    WwiseObjectReference: {fileID: 11400000, guid: 5b51def204537b140886e459f7bce5d6, type: 2}
+    WwiseObjectReference: {fileID: 11400000, guid: 5a18fd1f08f6ecf44b92032cbbdbbfb9, type: 2}
   useCallbacks: 0
   Callbacks: []
   playingId: 0
@@ -1561,7 +1560,7 @@ MonoBehaviour:
   data:
     idInternal: 0
     valueGuidInternal: 
-    WwiseObjectReference: {fileID: 11400000, guid: 5b51def204537b140886e459f7bce5d6, type: 2}
+    WwiseObjectReference: {fileID: 11400000, guid: 5a18fd1f08f6ecf44b92032cbbdbbfb9, type: 2}
   useCallbacks: 0
   Callbacks: []
   playingId: 0
@@ -1715,7 +1714,7 @@ MonoBehaviour:
   data:
     idInternal: 0
     valueGuidInternal: 
-    WwiseObjectReference: {fileID: 11400000, guid: 5b51def204537b140886e459f7bce5d6, type: 2}
+    WwiseObjectReference: {fileID: 11400000, guid: 5a18fd1f08f6ecf44b92032cbbdbbfb9, type: 2}
   useCallbacks: 0
   Callbacks: []
   playingId: 0
@@ -1932,11 +1931,11 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1764349272}
   m_LocalRotation: {x: -0.03219623, y: -0, z: -0, w: 0.99948156}
-  m_LocalPosition: {x: -195.5, y: 11.8, z: 180.9}
-  m_LocalScale: {x: 30.801394, y: 30.801395, z: 30.801395}
+  m_LocalPosition: {x: 188, y: 29.8, z: 452.1}
+  m_LocalScale: {x: 30.801394, y: 30.801397, z: 30.801397}
   m_Children: []
-  m_Father: {fileID: 1220766263}
-  m_RootOrder: 6
+  m_Father: {fileID: 0}
+  m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: -3.69, y: 0, z: 0}
 --- !u!114 &1764349274
 MonoBehaviour:
@@ -2251,7 +2250,7 @@ MonoBehaviour:
   data:
     idInternal: 0
     valueGuidInternal: 
-    WwiseObjectReference: {fileID: 11400000, guid: 5b51def204537b140886e459f7bce5d6, type: 2}
+    WwiseObjectReference: {fileID: 11400000, guid: 5a18fd1f08f6ecf44b92032cbbdbbfb9, type: 2}
   useCallbacks: 0
   Callbacks: []
   playingId: 0
