@@ -13,13 +13,13 @@ namespace AK
 {
     namespace EVENTS
     {
-        static const AkUniqueID PLAY_ZEUB = 4089740784U;
+        static const AkUniqueID PLAY_POOP = 1551805608U;
     } // namespace EVENTS
 
     namespace BANKS
     {
         static const AkUniqueID INIT = 1355168291U;
-        static const AkUniqueID SFX = 393239870U;
+        static const AkUniqueID AR_SFX = 2401537140U;
     } // namespace BANKS
 
     namespace BUSSES

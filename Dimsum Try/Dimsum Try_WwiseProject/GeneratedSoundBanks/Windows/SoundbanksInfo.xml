@@ -11,41 +11,57 @@
 	<StreamedFiles/>
 	<MediaFilesNotInAnyBank/>
 	<SoundBanks>
-		<SoundBank Id="393239870" Language="SFX" Hash="485143211">
-			<ObjectPath>\SoundBanks\Default Work Unit\sfx</ObjectPath>
-			<ShortName>sfx</ShortName>
-			<Path>sfx.bnk</Path>
-			<IncludedEvents>
-				<Event Id="4089740784" Name="Play_zeub" ObjectPath="\Events\Default Work Unit\Play_zeub" DurationType="OneShot" DurationMin="3.291594" DurationMax="10.62287">
-					<IncludedMemoryFiles>
-						<File Id="89151266" Language="SFX">
-							<ShortName>Edinburgh_MilnesCourt_Abdul_TheItsyBitsySpider_HarleensKitchen_1.13.22.wav</ShortName>
-							<Path>SFX\Edinburgh_MilnesCourt_Abdul_TheItsyBitsySpider_HarleensKitchen_1.13.22_FDA18BC0.wem</Path>
-						</File>
-						<File Id="527371904" Language="SFX">
-							<ShortName>Edinburgh_MilnesCourt_Abdul_TheItsyBitsySpider_HarleensKitchen_1.13.22.wav</ShortName>
-							<Path>SFX\Edinburgh_MilnesCourt_Abdul_TheItsyBitsySpider_HarleensKitchen_1.13.22_310C4766.wem</Path>
-						</File>
-						<File Id="602525956" Language="SFX">
-							<ShortName>Edinburgh_MilnesCourt_Abdul_TheItsyBitsySpider_HarleensKitchen_1.13.22.wav</ShortName>
-							<Path>SFX\Edinburgh_MilnesCourt_Abdul_TheItsyBitsySpider_HarleensKitchen_1.13.22_862915A4.wem</Path>
-						</File>
-						<File Id="974797747" Language="SFX">
-							<ShortName>Edinburgh_MilnesCourt_Abdul_TheItsyBitsySpider_HarleensKitchen_1.13.22.wav</ShortName>
-							<Path>SFX\Edinburgh_MilnesCourt_Abdul_TheItsyBitsySpider_HarleensKitchen_1.13.22_0A2C0EF2.wem</Path>
-						</File>
-						<File Id="1035043669" Language="SFX">
-							<ShortName>Edinburgh_MilnesCourt_Abdul_TheItsyBitsySpider_HarleensKitchen_1.13.22.wav</ShortName>
-							<Path>SFX\Edinburgh_MilnesCourt_Abdul_TheItsyBitsySpider_HarleensKitchen_1.13.22_DE7C979E.wem</Path>
-						</File>
-					</IncludedMemoryFiles>
-				</Event>
-			</IncludedEvents>
-		</SoundBank>
 		<SoundBank Id="1355168291" Language="SFX" Hash="3690994985">
 			<ObjectPath>Init</ObjectPath>
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="2401537140" Language="SFX" Hash="1890765607">
+			<ObjectPath>\SoundBanks\Default Work Unit\AR_sfx</ObjectPath>
+			<ShortName>AR_sfx</ShortName>
+			<Path>AR_sfx.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1551805608" Name="Play_Poop" ObjectPath="\Events\Default Work Unit\AR\Play_Poop" DurationType="OneShot" DurationMin="0.125" DurationMax="30.616011">
+					<IncludedMemoryFiles>
+						<File Id="132985924" Language="SFX">
+							<ShortName>AR_TapeMachine_Stop_01_12.3.19.wav</ShortName>
+							<Path>SFX\AR_TapeMachine_Stop_01_12.3.19_10C4C929.wem</Path>
+						</File>
+						<File Id="321909494" Language="SFX">
+							<ShortName>AR_TapeMachine_Stop_02_12.3.19.wav</ShortName>
+							<Path>SFX\AR_TapeMachine_Stop_02_12.3.19_10C4C929.wem</Path>
+						</File>
+						<File Id="573046728" Language="SFX">
+							<ShortName>AR_TapeMachine_Start&amp;Stop_01_12.3.19.wav</ShortName>
+							<Path>SFX\AR_TapeMachine_Start&amp;Stop_01_12.3.19_10C4C929.wem</Path>
+						</File>
+						<File Id="577130719" Language="SFX">
+							<ShortName>AR_TapeMachine_Rewind_01_12.3.19.wav</ShortName>
+							<Path>SFX\AR_TapeMachine_Rewind_01_12.3.19_10C4C929.wem</Path>
+						</File>
+						<File Id="625390118" Language="SFX">
+							<ShortName>AR_TapeMachine_Noise_02_12.3.19.wav</ShortName>
+							<Path>SFX\AR_TapeMachine_Noise_02_12.3.19_10C4C929.wem</Path>
+						</File>
+						<File Id="631813343" Language="SFX">
+							<ShortName>AR_TapeMachine_Start_01_12.3.19.wav</ShortName>
+							<Path>SFX\AR_TapeMachine_Start_01_12.3.19_10C4C929.wem</Path>
+						</File>
+						<File Id="817633352" Language="SFX">
+							<ShortName>AR_TapeMachine_Noise_04_12.3.19.wav</ShortName>
+							<Path>SFX\AR_TapeMachine_Noise_04_12.3.19_10C4C929.wem</Path>
+						</File>
+						<File Id="872932022" Language="SFX">
+							<ShortName>AR_TapeMachine_Noise_03_12.3.19.wav</ShortName>
+							<Path>SFX\AR_TapeMachine_Noise_03_12.3.19_10C4C929.wem</Path>
+						</File>
+						<File Id="1069767889" Language="SFX">
+							<ShortName>AR_TapeMachine_Start_02_12.3.19.wav</ShortName>
+							<Path>SFX\AR_TapeMachine_Start_02_12.3.19_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
 		</SoundBank>
 	</SoundBanks>
 </SoundBanksInfo>

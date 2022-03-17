@@ -1,0 +1,14 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1551805608	Play_Poop			\Default Work Unit\AR\Play_Poop	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	132985924	AR_TapeMachine_Stop_01_12_3_19	C:\Users\Andrew Ramsey\Documents\GitHub\LastAttemptBeforeDimSum\Dimsum Try\Dimsum Try_WwiseProject\.cache\Mac\SFX\AR_TapeMachine_Stop_01_12.3.19_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AR\Poop\AR_TapeMachine_Stop_01_12_3_19		24064
+	321909494	AR_TapeMachine_Stop_02_12_3_19	C:\Users\Andrew Ramsey\Documents\GitHub\LastAttemptBeforeDimSum\Dimsum Try\Dimsum Try_WwiseProject\.cache\Mac\SFX\AR_TapeMachine_Stop_02_12.3.19_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AR\Poop\AR_TapeMachine_Stop_02_12_3_19		222812
+	573046728	AR_TapeMachine_Start&Stop_01_12_3_19	C:\Users\Andrew Ramsey\Documents\GitHub\LastAttemptBeforeDimSum\Dimsum Try\Dimsum Try_WwiseProject\.cache\Mac\SFX\AR_TapeMachine_Start&Stop_01_12.3.19_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AR\Poop\AR_TapeMachine_Start&Stop_01_12_3_19		432064
+	577130719	AR_TapeMachine_Rewind_01_12_3_19	C:\Users\Andrew Ramsey\Documents\GitHub\LastAttemptBeforeDimSum\Dimsum Try\Dimsum Try_WwiseProject\.cache\Mac\SFX\AR_TapeMachine_Rewind_01_12.3.19_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AR\Poop\AR_TapeMachine_Rewind_01_12_3_19		5878336
+	625390118	AR_TapeMachine_Noise_02_12_3_19	C:\Users\Andrew Ramsey\Documents\GitHub\LastAttemptBeforeDimSum\Dimsum Try\Dimsum Try_WwiseProject\.cache\Mac\SFX\AR_TapeMachine_Noise_02_12.3.19_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AR\Poop\AR_TapeMachine_Noise_02_12_3_19		1920064
+	631813343	AR_TapeMachine_Start_01_12_3_19	C:\Users\Andrew Ramsey\Documents\GitHub\LastAttemptBeforeDimSum\Dimsum Try\Dimsum Try_WwiseProject\.cache\Mac\SFX\AR_TapeMachine_Start_01_12.3.19_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AR\Poop\AR_TapeMachine_Start_01_12_3_19		36064
+	817633352	AR_TapeMachine_Noise_04_12_3_19	C:\Users\Andrew Ramsey\Documents\GitHub\LastAttemptBeforeDimSum\Dimsum Try\Dimsum Try_WwiseProject\.cache\Mac\SFX\AR_TapeMachine_Noise_04_12.3.19_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AR\Poop\AR_TapeMachine_Noise_04_12_3_19		4600224
+	872932022	AR_TapeMachine_Noise_03_12_3_19	C:\Users\Andrew Ramsey\Documents\GitHub\LastAttemptBeforeDimSum\Dimsum Try\Dimsum Try_WwiseProject\.cache\Mac\SFX\AR_TapeMachine_Noise_03_12.3.19_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AR\Poop\AR_TapeMachine_Noise_03_12_3_19		3072064
+	1069767889	AR_TapeMachine_Start_02_12_3_19	C:\Users\Andrew Ramsey\Documents\GitHub\LastAttemptBeforeDimSum\Dimsum Try\Dimsum Try_WwiseProject\.cache\Mac\SFX\AR_TapeMachine_Start_02_12.3.19_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\AR\Poop\AR_TapeMachine_Start_02_12_3_19		49564
+
