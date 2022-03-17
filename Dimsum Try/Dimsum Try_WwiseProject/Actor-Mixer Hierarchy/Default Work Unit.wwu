@@ -227,6 +227,69 @@
 						</RandomSequenceContainer>
 					</ChildrenList>
 				</Folder>
+				<Folder Name="ACDC" ID="{B14AD36C-2C4A-47FA-90AA-F146E2D50D16}" ShortID="928792002">
+					<ChildrenList>
+						<RandomSequenceContainer Name="Ping" ID="{4733CD39-036C-4BD3-ABEE-2F733A2E9916}" ShortID="75036942">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A5F8F038-0191-4F60-9F71-E1CE2FBA68DB}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{45B2C6FC-A75F-497B-B900-9B7293EABB98}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="ACD_PingPongBallWood_Bounce_01-001" ID="{8496AC28-8CFF-4208-B80A-4E88580ACFCE}" ShortID="60936192">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A5F8F038-0191-4F60-9F71-E1CE2FBA68DB}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{45B2C6FC-A75F-497B-B900-9B7293EABB98}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="ACD_PingPongBallWood_Bounce_01-001" ID="{62467CB3-0C27-4CD5-AB10-D0573F1690A2}">
+											<Language>SFX</Language>
+											<AudioFile>ACD_PingPongBallWood_Bounce_01-001.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="316855231"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="ACD_PingPongBallWood_Bounce_01-001" ID="{62467CB3-0C27-4CD5-AB10-D0573F1690A2}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="ACD_PingPongBallWood_Bounce_02-001" ID="{B6E096BA-C488-4E66-AFE6-461DF013A1AC}" ShortID="15106935">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A5F8F038-0191-4F60-9F71-E1CE2FBA68DB}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{45B2C6FC-A75F-497B-B900-9B7293EABB98}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="ACD_PingPongBallWood_Bounce_02-001" ID="{EE468F94-BB56-437D-AA1F-43FE87F97F2A}">
+											<Language>SFX</Language>
+											<AudioFile>ACD_PingPongBallWood_Bounce_02-001.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="416129440"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="ACD_PingPongBallWood_Bounce_02-001" ID="{EE468F94-BB56-437D-AA1F-43FE87F97F2A}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+							<ObjectLists/>
+						</RandomSequenceContainer>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</AudioObjects>

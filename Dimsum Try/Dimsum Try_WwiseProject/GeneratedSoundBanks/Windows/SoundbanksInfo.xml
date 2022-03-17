@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="12" SoundbankVersion="140">
 	<RootPaths>
-		<ProjectRoot>C:\Users\Andrew Ramsey\Documents\GitHub\LastAttemptBeforeDimSum\Dimsum Try\Dimsum Try_WwiseProject\</ProjectRoot>
-		<SourceFilesRoot>C:\Users\Andrew Ramsey\Documents\GitHub\LastAttemptBeforeDimSum\Dimsum Try\Dimsum Try_WwiseProject\.cache\Windows\</SourceFilesRoot>
-		<SoundBanksRoot>C:\Users\Andrew Ramsey\Documents\GitHub\LastAttemptBeforeDimSum\Dimsum Try\Dimsum Try_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
+		<ProjectRoot>B:\ProgramData\_GitHub Repos\LastAttemptBeforeDimSum\Dimsum Try\Dimsum Try_WwiseProject\</ProjectRoot>
+		<SourceFilesRoot>B:\ProgramData\_GitHub Repos\LastAttemptBeforeDimSum\Dimsum Try\Dimsum Try_WwiseProject\.cache\Windows\</SourceFilesRoot>
+		<SoundBanksRoot>B:\ProgramData\_GitHub Repos\LastAttemptBeforeDimSum\Dimsum Try\Dimsum Try_WwiseProject\GeneratedSoundBanks\Windows\</SoundBanksRoot>
 		<ExternalSourcesInputFile></ExternalSourcesInputFile>
-		<ExternalSourcesOutputRoot>C:\Users\Andrew Ramsey\Documents\GitHub\LastAttemptBeforeDimSum\Dimsum Try\Dimsum Try_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
+		<ExternalSourcesOutputRoot>B:\ProgramData\_GitHub Repos\LastAttemptBeforeDimSum\Dimsum Try\Dimsum Try_WwiseProject\GeneratedSoundBanks\Windows</ExternalSourcesOutputRoot>
 	</RootPaths>
 	<DialogueEvents/>
 	<StreamedFiles/>
@@ -16,7 +16,36 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="2401537140" Language="SFX" Hash="1889301828">
+		<SoundBank Id="1571526819" Language="SFX" Hash="2836454916">
+			<ObjectPath>\SoundBanks\Default Work Unit\ACD_SFX</ObjectPath>
+			<ShortName>ACD_SFX</ShortName>
+			<Path>ACD_SFX.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1568289114" Name="Play_Ping" ObjectPath="\Events\Default Work Unit\ACD\Play_Ping" DurationType="OneShot" DurationMin="2.342" DurationMax="2.556396">
+					<IncludedMemoryFiles>
+						<File Id="316855231" Language="SFX">
+							<ShortName>ACD_PingPongBallWood_Bounce_01-001.wav</ShortName>
+							<Path>SFX\ACD_PingPongBallWood_Bounce_01-001_10C4C929.wem</Path>
+						</File>
+						<File Id="416129440" Language="SFX">
+							<ShortName>ACD_PingPongBallWood_Bounce_02-001.wav</ShortName>
+							<Path>SFX\ACD_PingPongBallWood_Bounce_02-001_10C4C929.wem</Path>
+						</File>
+					</IncludedMemoryFiles>
+				</Event>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="316855231" Language="SFX">
+					<ShortName>ACD_PingPongBallWood_Bounce_01-001.wav</ShortName>
+					<Path>SFX\ACD_PingPongBallWood_Bounce_01-001_10C4C929.wem</Path>
+				</File>
+				<File Id="416129440" Language="SFX">
+					<ShortName>ACD_PingPongBallWood_Bounce_02-001.wav</ShortName>
+					<Path>SFX\ACD_PingPongBallWood_Bounce_02-001_10C4C929.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+		<SoundBank Id="2401537140" Language="SFX" Hash="540776299">
 			<ObjectPath>\SoundBanks\Default Work Unit\AR_sfx</ObjectPath>
 			<ShortName>AR_sfx</ShortName>
 			<Path>AR_sfx.bnk</Path>
