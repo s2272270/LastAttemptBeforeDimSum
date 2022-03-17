@@ -1,0 +1,7 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1568289114	Play_Ping			\Default Work Unit\ACD\Play_Ping	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	316855231	ACD_PingPongBallWood_Bounce_01-001	B:\ProgramData\_GitHub Repos\LastAttemptBeforeDimSum\Dimsum Try\Dimsum Try_WwiseProject\.cache\Mac\SFX\ACD_PingPongBallWood_Bounce_01-001_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\ACDC\Ping\ACD_PingPongBallWood_Bounce_01-001		490892
+	416129440	ACD_PingPongBallWood_Bounce_02-001	B:\ProgramData\_GitHub Repos\LastAttemptBeforeDimSum\Dimsum Try\Dimsum Try_WwiseProject\.cache\Mac\SFX\ACD_PingPongBallWood_Bounce_02-001_10C4C929.wem		\Actor-Mixer Hierarchy\Default Work Unit\ACDC\Ping\ACD_PingPongBallWood_Bounce_02-001		449728
+

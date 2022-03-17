@@ -18,6 +18,21 @@
 						</Event>
 					</ChildrenList>
 				</Folder>
+				<Folder Name="ACD" ID="{CA22F6F5-CF32-4098-9A35-1560C8D60503}" ShortID="818394033">
+					<ChildrenList>
+						<Event Name="Play_Ping" ID="{4A9E9638-3796-4874-9A3E-2001000D950F}">
+							<ChildrenList>
+								<Action Name="" ID="{8976391F-9C2F-4422-8C36-3869F27EA3D9}" ShortID="1007683315">
+									<ReferenceList>
+										<Reference Name="Target">
+											<ObjectRef Name="Ping" ID="{4733CD39-036C-4BD3-ABEE-2F733A2E9916}" WorkUnitID="{2C46AFE9-1EC4-42D6-AF00-9F921C53CD31}"/>
+										</Reference>
+									</ReferenceList>
+								</Action>
+							</ChildrenList>
+						</Event>
+					</ChildrenList>
+				</Folder>
 			</ChildrenList>
 		</WorkUnit>
 	</Events>

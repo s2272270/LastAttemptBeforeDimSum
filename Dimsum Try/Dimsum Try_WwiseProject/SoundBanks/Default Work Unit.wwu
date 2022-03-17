@@ -10,6 +10,14 @@
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
 				</SoundBank>
+				<SoundBank Name="ACD_SFX" ID="{69E0CA58-258D-44B0-85A9-B01EAD93E41C}">
+					<ObjectInclusionList>
+						<ObjectRef Name="ACD" ID="{CA22F6F5-CF32-4098-9A35-1560C8D60503}" WorkUnitID="{017F5E41-EFEA-442A-A8D5-90A0CB0B40F1}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="ACDC" ID="{B14AD36C-2C4A-47FA-90AA-F146E2D50D16}" WorkUnitID="{2C46AFE9-1EC4-42D6-AF00-9F921C53CD31}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
 			</ChildrenList>
 		</WorkUnit>
 	</SoundBanks>
