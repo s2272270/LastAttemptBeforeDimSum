@@ -66,11 +66,11 @@ MonoBehaviour:
     ParentPath: SoundBanks\Default Work Unit
     guid: 3a23cdb20756ab4cbd7f210bd46c2ea1
     GuidInternal: 
-    m_lastTime: -8585541339144991605
+    m_lastTime: -8585540951173498761
     List:
-    - name: Arthur_SFX
-      guid: d62129d9905e0548998b7eec01d1f652
-      id: 2394993889
+    - name: AR_sfx
+      guid: e0e87d459fc21f42b02446e9749f9f26
+      id: 2401537140
       PathAndIcons:
       - ElementName: SoundBanks
         ObjectType: 5
@@ -78,10 +78,10 @@ MonoBehaviour:
       - ElementName: Default Work Unit
         ObjectType: 12
         guid: 3a23cdb20756ab4cbd7f210bd46c2ea1
-      - ElementName: Arthur_SFX
+      - ElementName: AR_sfx
         ObjectType: 7
-        guid: d62129d9905e0548998b7eec01d1f652
-      Path: SoundBanks\Default Work Unit\Arthur_SFX
+        guid: e0e87d459fc21f42b02446e9749f9f26
+      Path: SoundBanks\Default Work Unit\AR_sfx
   EventWwu:
   - PhysicalPath: Events\Default Work Unit.wwu
     PathAndIcons:
@@ -94,11 +94,11 @@ MonoBehaviour:
     ParentPath: Events\Default Work Unit
     guid: 415e7f01eaef2a44a8d590a0cb0b40f1
     GuidInternal: 
-    m_lastTime: -8585541339144842806
+    m_lastTime: -8585540951174248833
     List:
-    - name: Play_MetalGate_ChainShake_04
-      guid: 1d2d2bcfeec59f4786bfc99c12b88de9
-      id: 3366641553
+    - name: AR
+      guid: c77c202412e90841bfcf165143d9c74d
+      id: 1886858536
       PathAndIcons:
       - ElementName: Events
         ObjectType: 5
@@ -106,13 +106,33 @@ MonoBehaviour:
       - ElementName: Default Work Unit
         ObjectType: 12
         guid: 415e7f01eaef2a44a8d590a0cb0b40f1
-      - ElementName: Play_MetalGate_ChainShake_04
-        ObjectType: 3
-        guid: 1d2d2bcfeec59f4786bfc99c12b88de9
-      Path: Events\Default Work Unit\Play_MetalGate_ChainShake_04
+      - ElementName: AR
+        ObjectType: 4
+        guid: c77c202412e90841bfcf165143d9c74d
+      Path: Events\Default Work Unit\AR
       maxAttenuation: 0
-      maxDuration: 2.166917
-      minDuration: 2.166917
+      maxDuration: -1
+      minDuration: -1
+    - name: Play_poop
+      guid: a4a2077397d5d54a9056b0178532f209
+      id: 1551805608
+      PathAndIcons:
+      - ElementName: Events
+        ObjectType: 5
+        guid: 00000000000000000000000000000000
+      - ElementName: Default Work Unit
+        ObjectType: 12
+        guid: 415e7f01eaef2a44a8d590a0cb0b40f1
+      - ElementName: AR
+        ObjectType: 4
+        guid: c77c202412e90841bfcf165143d9c74d
+      - ElementName: Play_poop
+        ObjectType: 3
+        guid: a4a2077397d5d54a9056b0178532f209
+      Path: Events\Default Work Unit\AR\Play_poop
+      maxAttenuation: 0
+      maxDuration: -1
+      minDuration: -1
   RtpcWwu:
   - PhysicalPath: Game Parameters\Default Work Unit.wwu
     PathAndIcons:
@@ -170,7 +190,7 @@ MonoBehaviour:
     m_lastTime: -8585541369311994627
     List: []
   ExpandedFileSystemItemIds: 
-  ExpandedWaapiItemIds: 0500000006000000090000000a000000
+  ExpandedWaapiItemIds: 0500000006000000090000000a00000012000000
   AutoSyncSelection: 0
   autoPopulateEnabled: 1
   currentDataSource: 0
