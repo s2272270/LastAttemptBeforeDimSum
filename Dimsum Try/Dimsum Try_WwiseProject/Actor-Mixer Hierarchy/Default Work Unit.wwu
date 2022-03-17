@@ -1,6 +1,233 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{2C46AFE9-1EC4-42D6-AF00-9F921C53CD31}" SchemaVersion="103">
 	<AudioObjects>
-		<WorkUnit Name="Default Work Unit" ID="{2C46AFE9-1EC4-42D6-AF00-9F921C53CD31}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{2C46AFE9-1EC4-42D6-AF00-9F921C53CD31}" PersistMode="Standalone">
+			<ChildrenList>
+				<Folder Name="AR" ID="{C406588D-6400-468F-A631-F65039B381C5}" ShortID="526833911">
+					<ChildrenList>
+						<RandomSequenceContainer Name="poop" ID="{320F57E1-66EA-4D5F-996B-226D21A19D91}" ShortID="159755577">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A5F8F038-0191-4F60-9F71-E1CE2FBA68DB}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{45B2C6FC-A75F-497B-B900-9B7293EABB98}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="AR_TapeMachine_Noise_02_12_3_19" ID="{AC673846-6AD5-4BFD-A84B-BD10B523DEA3}" ShortID="661477540">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A5F8F038-0191-4F60-9F71-E1CE2FBA68DB}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{45B2C6FC-A75F-497B-B900-9B7293EABB98}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AR_TapeMachine_Noise_02_12_3_19" ID="{54E38F4B-09AD-4C10-A86D-D9C61A289266}">
+											<Language>SFX</Language>
+											<AudioFile>AR_TapeMachine_Noise_02_12.3.19.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="404811748"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="AR_TapeMachine_Noise_02_12_3_19" ID="{54E38F4B-09AD-4C10-A86D-D9C61A289266}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="AR_TapeMachine_Noise_03_12_3_19" ID="{38DD674B-0AFD-489A-9CBC-C721FA0C78DF}" ShortID="1062083793">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A5F8F038-0191-4F60-9F71-E1CE2FBA68DB}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{45B2C6FC-A75F-497B-B900-9B7293EABB98}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AR_TapeMachine_Noise_03_12_3_19" ID="{269E089D-6329-42AF-8E47-46D1900EFAC0}">
+											<Language>SFX</Language>
+											<AudioFile>AR_TapeMachine_Noise_03_12.3.19.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="42548818"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="AR_TapeMachine_Noise_03_12_3_19" ID="{269E089D-6329-42AF-8E47-46D1900EFAC0}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="AR_TapeMachine_Noise_04_12_3_19" ID="{3C05E5EB-CD0A-488A-A25C-B92A3CFEE1A3}" ShortID="615770682">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A5F8F038-0191-4F60-9F71-E1CE2FBA68DB}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{45B2C6FC-A75F-497B-B900-9B7293EABB98}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AR_TapeMachine_Noise_04_12_3_19" ID="{73D09764-643E-48CD-90D4-72C251D61374}">
+											<Language>SFX</Language>
+											<AudioFile>AR_TapeMachine_Noise_04_12.3.19.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="152825464"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="AR_TapeMachine_Noise_04_12_3_19" ID="{73D09764-643E-48CD-90D4-72C251D61374}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="AR_TapeMachine_Rewind_01_12_3_19" ID="{E0F37B15-F3EB-4396-BBC2-C4FD5D9342E8}" ShortID="478711107">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A5F8F038-0191-4F60-9F71-E1CE2FBA68DB}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{45B2C6FC-A75F-497B-B900-9B7293EABB98}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AR_TapeMachine_Rewind_01_12_3_19" ID="{9036AA93-5854-43D5-B91A-D6576B2F6502}">
+											<Language>SFX</Language>
+											<AudioFile>AR_TapeMachine_Rewind_01_12.3.19.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="663095264"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="AR_TapeMachine_Rewind_01_12_3_19" ID="{9036AA93-5854-43D5-B91A-D6576B2F6502}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="AR_TapeMachine_Start&amp;Stop_01_12_3_19" ID="{1C55EC55-8D87-481E-BF5C-B81D74EAEF6B}" ShortID="921332017">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A5F8F038-0191-4F60-9F71-E1CE2FBA68DB}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{45B2C6FC-A75F-497B-B900-9B7293EABB98}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AR_TapeMachine_Start&amp;Stop_01_12_3_19" ID="{CCE0F039-550B-4CAB-9D39-2425B3D2FAC1}">
+											<Language>SFX</Language>
+											<AudioFile>AR_TapeMachine_Start&amp;Stop_01_12.3.19.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="650432642"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="AR_TapeMachine_Start&amp;Stop_01_12_3_19" ID="{CCE0F039-550B-4CAB-9D39-2425B3D2FAC1}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="AR_TapeMachine_Start_01_12_3_19" ID="{A4DD38DF-6B54-4BE0-8623-D9650938AD58}" ShortID="184728236">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A5F8F038-0191-4F60-9F71-E1CE2FBA68DB}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{45B2C6FC-A75F-497B-B900-9B7293EABB98}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AR_TapeMachine_Start_01_12_3_19" ID="{3DD0C541-6C4C-46A0-BF87-8D69D0656DC3}">
+											<Language>SFX</Language>
+											<AudioFile>AR_TapeMachine_Start_01_12.3.19.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="839298234"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="AR_TapeMachine_Start_01_12_3_19" ID="{3DD0C541-6C4C-46A0-BF87-8D69D0656DC3}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="AR_TapeMachine_Start_02_12_3_19" ID="{6BA2AA0F-25AA-4244-BC3F-B06574A24A73}" ShortID="486422018">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A5F8F038-0191-4F60-9F71-E1CE2FBA68DB}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{45B2C6FC-A75F-497B-B900-9B7293EABB98}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AR_TapeMachine_Start_02_12_3_19" ID="{BC2D7B3C-5CC1-45C6-B25D-629C85DAE7F9}">
+											<Language>SFX</Language>
+											<AudioFile>AR_TapeMachine_Start_02_12.3.19.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="450051653"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="AR_TapeMachine_Start_02_12_3_19" ID="{BC2D7B3C-5CC1-45C6-B25D-629C85DAE7F9}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="AR_TapeMachine_Stop_01_12_3_19" ID="{84E45FD8-E45A-473E-B191-32CE61183035}" ShortID="1008600082">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A5F8F038-0191-4F60-9F71-E1CE2FBA68DB}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{45B2C6FC-A75F-497B-B900-9B7293EABB98}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AR_TapeMachine_Stop_01_12_3_19" ID="{72FB4878-93B9-4FF7-AC29-E5C5C882CDAE}">
+											<Language>SFX</Language>
+											<AudioFile>AR_TapeMachine_Stop_01_12.3.19.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="866021161"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="AR_TapeMachine_Stop_01_12_3_19" ID="{72FB4878-93B9-4FF7-AC29-E5C5C882CDAE}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="AR_TapeMachine_Stop_02_12_3_19" ID="{9E798707-715A-4C8D-B908-37BD6D208572}" ShortID="113611518">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{A5F8F038-0191-4F60-9F71-E1CE2FBA68DB}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{45B2C6FC-A75F-497B-B900-9B7293EABB98}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="AR_TapeMachine_Stop_02_12_3_19" ID="{32A5448E-1C3F-46C1-B1DB-D3D55077C6F0}">
+											<Language>SFX</Language>
+											<AudioFile>AR_TapeMachine_Stop_02_12.3.19.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="1011071452"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="AR_TapeMachine_Stop_02_12_3_19" ID="{32A5448E-1C3F-46C1-B1DB-D3D55077C6F0}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+							<ObjectLists/>
+						</RandomSequenceContainer>
+					</ChildrenList>
+				</Folder>
+			</ChildrenList>
+		</WorkUnit>
 	</AudioObjects>
 </WwiseDocument>

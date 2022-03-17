@@ -1,6 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{B2CD233A-5607-4CAB-BD7F-210BD46C2EA1}" SchemaVersion="103">
 	<SoundBanks>
-		<WorkUnit Name="Default Work Unit" ID="{B2CD233A-5607-4CAB-BD7F-210BD46C2EA1}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{B2CD233A-5607-4CAB-BD7F-210BD46C2EA1}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="AR_sfx" ID="{457DE8E0-C29F-421F-B024-46E9749F9F26}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_poop" ID="{7307A2A4-D597-4AD5-9056-B0178532F209}" WorkUnitID="{017F5E41-EFEA-442A-A8D5-90A0CB0B40F1}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
 	</SoundBanks>
 </WwiseDocument>

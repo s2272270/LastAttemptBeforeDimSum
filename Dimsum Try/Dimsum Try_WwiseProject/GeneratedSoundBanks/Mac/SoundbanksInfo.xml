@@ -16,48 +16,48 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="2401537140" Language="SFX" Hash="1890765607">
+		<SoundBank Id="2401537140" Language="SFX" Hash="1889301828">
 			<ObjectPath>\SoundBanks\Default Work Unit\AR_sfx</ObjectPath>
 			<ShortName>AR_sfx</ShortName>
 			<Path>AR_sfx.bnk</Path>
 			<IncludedEvents>
-				<Event Id="1551805608" Name="Play_Poop" ObjectPath="\Events\Default Work Unit\AR\Play_Poop" DurationType="OneShot" DurationMin="0.125" DurationMax="30.616011">
+				<Event Id="1551805608" Name="Play_poop" ObjectPath="\Events\Default Work Unit\AR\Play_poop" DurationType="OneShot" DurationMin="0.125" DurationMax="30.616011">
 					<IncludedMemoryFiles>
-						<File Id="132985924" Language="SFX">
-							<ShortName>AR_TapeMachine_Stop_01_12.3.19.wav</ShortName>
-							<Path>SFX\AR_TapeMachine_Stop_01_12.3.19_10C4C929.wem</Path>
-						</File>
-						<File Id="321909494" Language="SFX">
-							<ShortName>AR_TapeMachine_Stop_02_12.3.19.wav</ShortName>
-							<Path>SFX\AR_TapeMachine_Stop_02_12.3.19_10C4C929.wem</Path>
-						</File>
-						<File Id="573046728" Language="SFX">
-							<ShortName>AR_TapeMachine_Start&amp;Stop_01_12.3.19.wav</ShortName>
-							<Path>SFX\AR_TapeMachine_Start&amp;Stop_01_12.3.19_10C4C929.wem</Path>
-						</File>
-						<File Id="577130719" Language="SFX">
-							<ShortName>AR_TapeMachine_Rewind_01_12.3.19.wav</ShortName>
-							<Path>SFX\AR_TapeMachine_Rewind_01_12.3.19_10C4C929.wem</Path>
-						</File>
-						<File Id="625390118" Language="SFX">
-							<ShortName>AR_TapeMachine_Noise_02_12.3.19.wav</ShortName>
-							<Path>SFX\AR_TapeMachine_Noise_02_12.3.19_10C4C929.wem</Path>
-						</File>
-						<File Id="631813343" Language="SFX">
-							<ShortName>AR_TapeMachine_Start_01_12.3.19.wav</ShortName>
-							<Path>SFX\AR_TapeMachine_Start_01_12.3.19_10C4C929.wem</Path>
-						</File>
-						<File Id="817633352" Language="SFX">
-							<ShortName>AR_TapeMachine_Noise_04_12.3.19.wav</ShortName>
-							<Path>SFX\AR_TapeMachine_Noise_04_12.3.19_10C4C929.wem</Path>
-						</File>
-						<File Id="872932022" Language="SFX">
+						<File Id="42548818" Language="SFX">
 							<ShortName>AR_TapeMachine_Noise_03_12.3.19.wav</ShortName>
 							<Path>SFX\AR_TapeMachine_Noise_03_12.3.19_10C4C929.wem</Path>
 						</File>
-						<File Id="1069767889" Language="SFX">
+						<File Id="152825464" Language="SFX">
+							<ShortName>AR_TapeMachine_Noise_04_12.3.19.wav</ShortName>
+							<Path>SFX\AR_TapeMachine_Noise_04_12.3.19_10C4C929.wem</Path>
+						</File>
+						<File Id="404811748" Language="SFX">
+							<ShortName>AR_TapeMachine_Noise_02_12.3.19.wav</ShortName>
+							<Path>SFX\AR_TapeMachine_Noise_02_12.3.19_10C4C929.wem</Path>
+						</File>
+						<File Id="450051653" Language="SFX">
 							<ShortName>AR_TapeMachine_Start_02_12.3.19.wav</ShortName>
 							<Path>SFX\AR_TapeMachine_Start_02_12.3.19_10C4C929.wem</Path>
+						</File>
+						<File Id="650432642" Language="SFX">
+							<ShortName>AR_TapeMachine_Start&amp;Stop_01_12.3.19.wav</ShortName>
+							<Path>SFX\AR_TapeMachine_Start&amp;Stop_01_12.3.19_10C4C929.wem</Path>
+						</File>
+						<File Id="663095264" Language="SFX">
+							<ShortName>AR_TapeMachine_Rewind_01_12.3.19.wav</ShortName>
+							<Path>SFX\AR_TapeMachine_Rewind_01_12.3.19_10C4C929.wem</Path>
+						</File>
+						<File Id="839298234" Language="SFX">
+							<ShortName>AR_TapeMachine_Start_01_12.3.19.wav</ShortName>
+							<Path>SFX\AR_TapeMachine_Start_01_12.3.19_10C4C929.wem</Path>
+						</File>
+						<File Id="866021161" Language="SFX">
+							<ShortName>AR_TapeMachine_Stop_01_12.3.19.wav</ShortName>
+							<Path>SFX\AR_TapeMachine_Stop_01_12.3.19_10C4C929.wem</Path>
+						</File>
+						<File Id="1011071452" Language="SFX">
+							<ShortName>AR_TapeMachine_Stop_02_12.3.19.wav</ShortName>
+							<Path>SFX\AR_TapeMachine_Stop_02_12.3.19_10C4C929.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
 				</Event>
