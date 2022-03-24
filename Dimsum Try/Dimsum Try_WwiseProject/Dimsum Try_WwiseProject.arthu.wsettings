@@ -22,7 +22,7 @@
 				<Property Name="General\LatestPlatform" Type="string" Value="Mac"/>
 				<Property Name="GenerateSoundBanks\x64_SelectedLanguages" Type="string" Value="BvDMKA=="/>
 				<Property Name="GenerateSoundBanks\x64_SelectedPlatforms" Type="string" Value="RnPfl+aozkeUWatO4gMYNqUYCx2jPvdLqDgfeAzRVFs="/>
-				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="4Oh9RZ/CH0KwJEbpdJ+fJljK4GmNJbBEhamwHq2T5Bw="/>
+				<Property Name="GenerateSoundBanks\x64_SelectedSoundBanks" Type="string" Value="WMrgaY0lsESFqbAerZPkHODofUWfwh9CsCRG6XSfnyY="/>
 				<Property Name="HardwareController\CurrentSession" Type="string" Value="{00000000-0000-0000-0000-000000000000}"/>
 				<Property Name="MeterView\LastObject1" Type="string" Value="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}"/>
 				<Property Name="MeterView\MeterMode1" Type="int32" Value="1"/>
@@ -77,7 +77,7 @@
 				<Property Name="ProjectExplorer\x64_Expanded_2_0" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_2_1" Type="string" Value="/MayRV+ne0m5AJtyk+q7mA=="/>
 				<Property Name="ProjectExplorer\x64_Expanded_3_0" Type="string" Value=""/>
-				<Property Name="ProjectExplorer\x64_Expanded_3_1" Type="string" Value="6a9GLMQe1kKvAJ+SHFPNMWzTSrFKLPpHkKrxRuLVDRbhVw8y6mZfTZlrIm0hoZ2R"/>
+				<Property Name="ProjectExplorer\x64_Expanded_3_1" Type="string" Value="6a9GLMQe1kKvAJ+SHFPNMWzTSrFKLPpHkKrxRuLVDRY="/>
 				<Property Name="ProjectExplorer\x64_Expanded_4_0" Type="string" Value=""/>
 				<Property Name="ProjectExplorer\x64_Expanded_4_1" Type="string" Value="QV5/AervKkSo1ZCgywtA8Q=="/>
 				<Property Name="ProjectExplorer\x64_Expanded_5_0" Type="string" Value=""/>
